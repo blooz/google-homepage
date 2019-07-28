@@ -1,0 +1,42 @@
+.logo {
+    position: absolute;
+    left: 541.5px;
+    top: 200px; 
+}
+.searchbar {
+    position: absolute;
+    left: 375px;
+    top: 325px;
+    width: 577px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    font-size: 12px;
+  }
+  .floatleft {
+      float: left;
+  }
+  .floatright {
+      float: right;
+  }
+  .button {
+      position: absolute;
+      top: 400px;
+      left: 530px;
+  }
+  .footer {
+      position: absolute;
+      top: 490px;
+  }
+  .floatright2 {
+    margin-left: 1200px;
+
+  }
+  .floatleft2 {
+      float: left;
+  }
